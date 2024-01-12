@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/*base case */
 int _strlen_recursion(char *s)
 {
     if (*s == '\0')
