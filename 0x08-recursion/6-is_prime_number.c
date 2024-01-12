@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*base case */
 int is_prime_number(int n)
 {
     if (n < 2)
