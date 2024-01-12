@@ -15,6 +15,11 @@ int is_palindrome(char *s)
     }
     return 1;
 }
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
 int main(void)
 {
     int r;
