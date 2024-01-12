@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*base case */
 int _sqrt_recursion(int n)
 {
     if (n < 0)
