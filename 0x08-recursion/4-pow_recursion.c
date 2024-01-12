@@ -9,6 +9,11 @@ int _pow_recursion(int x, int y)
     else
         return x * _pow_recursion(x, y - 1);
 }
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
 int main(void)
 {
     int r;
