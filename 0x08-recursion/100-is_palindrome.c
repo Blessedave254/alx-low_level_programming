@@ -1,6 +1,7 @@
 
 #include <stdio.h>
 
+/*base case */
 int is_palindrome(char *s)
 {
     if (s == NULL)
