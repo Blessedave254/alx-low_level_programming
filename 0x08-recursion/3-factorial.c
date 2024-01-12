@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*base case */
 int factorial(int n)
 {
     if (n < 0)
