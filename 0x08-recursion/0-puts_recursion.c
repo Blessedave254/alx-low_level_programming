@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*base case */
 void _puts_recursion(char *s)
 {
     if (*s == '\0')
