@@ -21,6 +21,11 @@ int sqrt_helper(int n, int i)
     else
         return sqrt_helper(n, i + 1);
 }
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
 int main(void)
 {
     int r;
