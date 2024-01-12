@@ -9,6 +9,11 @@ int factorial(int n)
     else
         return n * factorial(n - 1);
 }
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
 int main(void)
 {
     int r;
